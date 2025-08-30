@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArrowRight, Star, Shield, Users, Clock } from 'lucide-react';
+import { ArrowRight, Star, Shield, Users, Clock, Phone } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const Home = () => {
